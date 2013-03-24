@@ -1,0 +1,24 @@
+{
+  "name": "node-rdio",
+  "version": "0.1.0",
+  "description": "Simple OAuth library to access rdio api",
+  "main": "rdio.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creatorrr/node-rdio.git"
+  },
+  "keywords": [
+    "rdio",
+    "oauth"
+  ],
+  "author": "Rdio",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "91774cd9a5b0041c8fe6ff036ba3e9bae5800067"
+}
