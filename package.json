@@ -1,6 +1,6 @@
 {
   "name": "node-rdio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple OAuth library to access rdio api",
   "main": "rdio.js",
   "directories": {
@@ -20,5 +20,5 @@
   "author": "Rdio",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "91774cd9a5b0041c8fe6ff036ba3e9bae5800067"
+  "gitHead": "2ffa0bdc272bca6f7138c6160be4df5ddcd42cbd"
 }
